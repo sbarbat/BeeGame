@@ -1,0 +1,7 @@
+default:
+    autoload:
+        - features/bootstrap/
+    suites:
+        default:
+            contexts:
+                - Sbarbat\Chip\Behat\HiveContext:
