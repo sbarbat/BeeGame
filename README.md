@@ -1,5 +1,4 @@
 # Bee Game
-This is my implementation of the Chip Financial php test.
 @author Santiago Barbat
 
 ## Install dependencies
